@@ -1,5 +1,5 @@
 package calculadora17;
-
+/**autotia: Oihan Rodriguez. Clase:calculadoraGIT17 */
 public class calculadora17 {
 	
 	public int sumar(int a, int b) {
