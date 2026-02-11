@@ -46,4 +46,11 @@ public class calculadora17 {
 	feature-avanzadas
 }
 
-  
+/** 
+ * Descripcion general de lo que hace tu clase.
+ *
+ * @author Oihan
+ * @version 1.0.0
+ * @since 2026-02-11
+*/
+
